@@ -29,19 +29,9 @@
 
 ---
 
-## **📈 Current Projects**  
-- **Research:** Implementing text classification models using BERT and Thai2Vec.  
-- **Software:** Building web applications for educational purposes.  
-
----
 
 
 
 
 
-ติดต่อ
-เบอร์โทร: 097-337-1721
-Email: [poonart2547@gmail.com](mailto:poonart2547@gmail.com)
-LINE ID: artter0934175521
-Facebook: Ponyakorn Srinuchart
-Instagram: Ponyakornart
+
