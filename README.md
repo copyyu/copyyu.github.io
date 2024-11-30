@@ -1,24 +1,49 @@
-My Profile
-Ponyakorn Srinuchart 6530250433 sec.870
-Nickname: Art
+# 📝 **Chayapol Jitnaphets (Tonplam)**  
+**ID:** 6530250352 | **Section:** 870  
 
-![Profile Picture](/93576.jpg)
-
----
-
-ข้อมูลต่างๆ
-ชื่อ: ปุณยากร สีนุชาติ
-ชื่อเล่น: อาร์ต
-อายุ: 20
-วันเกิด: 2 มกราคม 2547
+![Profile Picture](https://example.com/445369519_2201649523514824_6493790615028912669_n.jpg)  
 
 ---
 
-สถานศึกษา
-มหาวิทยาลัย: เกษตรศาสตร์ วิทยาเขต ศรีราชา
-คณะ: วิทยาศาสตร์ ศรีราชา
-สาขา: วิทยาการคอมพิวเตอร์
-ชั้นปี: 3
+## **👤 Personal Information**  
+- **Name:** ชยพล จิตนะเพชร  
+- **Nickname:** ต้นปาล์ม  
+- **Age:** 20  
+- **Date of Birth:** 29 ธันวาคม 2546  
+
+---
+
+## **🏫 Education**  
+- **University:** มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา  
+- **Faculty:** วิทยาศาสตร์ ศรีราชา  
+- **Major:** วิทยาการคอมพิวเตอร์  
+- **Year:** ชั้นปีที่ 3  
+
+---
+
+## **🌟 Interests**  
+- Machine Learning  
+- Artificial Intelligence  
+- Software Development  
+- Web Development  
+
+---
+
+## **📈 Current Projects**  
+- **Research:** Implementing text classification models using BERT and Thai2Vec.  
+- **Software:** Building web applications for educational purposes.  
+
+---
+
+## **🌐 Connect with Me**  
+- [GitHub](https://github.com/yourusername)  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+---
+
+### **✨ Favorite Quote**  
+_"The best way to predict the future is to create it."_  
+
 
 ---
 
