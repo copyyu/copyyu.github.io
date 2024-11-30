@@ -35,17 +35,9 @@
 
 ---
 
-## **🌐 Connect with Me**  
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-
----
-
-### **✨ Favorite Quote**  
-_"The best way to predict the future is to create it."_  
 
 
----
+
 
 ติดต่อ
 เบอร์โทร: 097-337-1721
