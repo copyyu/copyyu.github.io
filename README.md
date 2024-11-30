@@ -29,7 +29,12 @@
 
 ---
 
+## **🌐 Connect with Me**  
+- [GitHub](https://github.com/copyyu)
+- [Instagram](https://www.instagram.com/chayapol_cs/ )
+ 
 
+---
 
 
 
