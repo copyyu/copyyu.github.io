@@ -1,7 +1,7 @@
 # 📝 **Chayapol Jitnaphets (Tonplam)**  
 **ID:** 6530250352 | **Section:** 870  
 
-![Profile Picture](ME/445369519_2201649523514824_6493790615028912669_n.jpg){width="200px"}
+![Profile Picture](ME/445369519_2201649523514824_6493790615028912669_n.jpg){width="100px"}
 
 
 ---
