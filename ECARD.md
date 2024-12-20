@@ -5,8 +5,8 @@
 
 ---
 
-## ❄️ **Let it Snow!**  
-![Christmas Snow](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+## ❄️ **ออกแบบ E-Card ด้วย Canva และซ่อนข้อความผ่าน Steganography**  
+![Christmas Snow](ME/6530250352.png)  
 
 ---
 
