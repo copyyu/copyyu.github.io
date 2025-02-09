@@ -34,5 +34,6 @@
 
 ## 🧑‍💻 **My Team**  
 - **👤 6530250352 Chayapol Jitnaphets**  
-- **👤 6530250263 Siraphop Chootong**  (https://nmpsz.github.io/security-requirement)
+- **👤 6530250263 Siraphop Chootong** 🌐 [Security Requirement](https://nmpsz.github.io/security-requirement)  
+
 
