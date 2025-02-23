@@ -27,7 +27,7 @@
 
 ![pic1](ME/1png.png)
 
-![pic2](image/bg2.png)
+![pic2](ME/bg2.png)
 
 ![pic3](image/bg3.png)
 
