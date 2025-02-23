@@ -25,7 +25,7 @@
 **Activity Pictures 🖼️**  
 
 
-![pic1](image/bg1.png)
+![pic1](ME/1png.png)
 
 ![pic2](image/bg2.png)
 
