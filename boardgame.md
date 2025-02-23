@@ -38,7 +38,7 @@
 
 **Group 🤼** 
 - 1.[ kiadtiyod hongglin 6530250026 ](https://ProfesserSwitch.github.io/board-game) 
-- 2.[ chayapol jitnaphets 6530250352](https://copyyu.github.io/board-game) 
+- 2.[ chayapol jitnaphets 6530250352](https://copyyu.github.io/boardgame) 
 - 3.[ enter name ](https://name/board-game) 
 - 4.[ enter name ](https://name/board-game) c
 - 5.[ enter name ](https://name/board-gamee) 
