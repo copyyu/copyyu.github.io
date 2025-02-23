@@ -29,16 +29,16 @@
 
 ![pic2](ME/bg2.png)
 
-![pic3](image/bg3.png)
+![pic3](ME/bg3.png)
 
 **Activity Video** 🎥
 
-[![pic4](image/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
+[![pic4](ME/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
 
 
 **Group 🤼** 
 - 1.[ kiadtiyod hongglin 6530250026 ](https://ProfesserSwitch.github.io/board-game) 
-- 2.[ enter name ](https://name/board-game) 
+- 2.[ chayapol jitnaphets ](https://name/board-game) 
 - 3.[ enter name ](https://name/board-game) 
-- 4.[ enter name ](https://name/board-game) 
+- 4.[ enter name ](https://name/board-game) c
 - 5.[ enter name ](https://name/board-gamee) 
